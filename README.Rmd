@@ -1,0 +1,18 @@
+---
+title: "animated bodies"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Why
+
+I noticed the cool [gganatomogram package](https://github.com/jespermaag/gganatogram) and I wanted to play with gganimate.
+this combined looked like animations where you're drinking something and
+it flows through your body. That is awesome!
+Now let's see if we can make that work.
+
+There must be serious problems that this package solves, but I'm here to play.
+
